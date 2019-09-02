@@ -1,0 +1,10 @@
+C:\Users\X220\source\repos\Solid_Principles\DependencyInversionPrinciple\bin\Debug\netcoreapp2.1\DependencyInversionPrinciple.deps.json
+C:\Users\X220\source\repos\Solid_Principles\DependencyInversionPrinciple\bin\Debug\netcoreapp2.1\DependencyInversionPrinciple.runtimeconfig.json
+C:\Users\X220\source\repos\Solid_Principles\DependencyInversionPrinciple\bin\Debug\netcoreapp2.1\DependencyInversionPrinciple.runtimeconfig.dev.json
+C:\Users\X220\source\repos\Solid_Principles\DependencyInversionPrinciple\bin\Debug\netcoreapp2.1\DependencyInversionPrinciple.dll
+C:\Users\X220\source\repos\Solid_Principles\DependencyInversionPrinciple\bin\Debug\netcoreapp2.1\DependencyInversionPrinciple.pdb
+C:\Users\X220\source\repos\Solid_Principles\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\X220\source\repos\Solid_Principles\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+C:\Users\X220\source\repos\Solid_Principles\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.AssemblyInfo.cs
+C:\Users\X220\source\repos\Solid_Principles\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.dll
+C:\Users\X220\source\repos\Solid_Principles\DependencyInversionPrinciple\obj\Debug\netcoreapp2.1\DependencyInversionPrinciple.pdb

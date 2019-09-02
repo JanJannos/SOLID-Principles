@@ -1,0 +1,11 @@
+C:\Users\X220\source\repos\Solid_Principles\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.deps.json
+C:\Users\X220\source\repos\Solid_Principles\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.runtimeconfig.json
+C:\Users\X220\source\repos\Solid_Principles\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.runtimeconfig.dev.json
+C:\Users\X220\source\repos\Solid_Principles\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.dll
+C:\Users\X220\source\repos\Solid_Principles\OpenClosedPrinciple\bin\Debug\netcoreapp2.1\OpenClosedPrinciple.pdb
+C:\Users\X220\source\repos\Solid_Principles\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.csprojAssemblyReference.cache
+C:\Users\X220\source\repos\Solid_Principles\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\X220\source\repos\Solid_Principles\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\X220\source\repos\Solid_Principles\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\X220\source\repos\Solid_Principles\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.dll
+C:\Users\X220\source\repos\Solid_Principles\OpenClosedPrinciple\obj\Debug\netcoreapp2.1\OpenClosedPrinciple.pdb

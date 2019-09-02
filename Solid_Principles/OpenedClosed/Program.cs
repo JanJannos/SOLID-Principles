@@ -43,23 +43,23 @@ namespace Solid_Principles
 
     // Employee 3 
 
-    public class Program
-    {
-        static void Main(string[] args)
-        {
-            //Employee emp = new Employee(123, "Jack");       // Old
-            //Employee emp = new Employee(123, "Jack", "Permanent");  // Old
-            //Employee emp2 = new Employee(123, "Jonas", "Temp");  // Old
+    //public class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        //Employee emp = new Employee(123, "Jack");       // Old
+    //        //Employee emp = new Employee(123, "Jack", "Permanent");  // Old
+    //        //Employee emp2 = new Employee(123, "Jonas", "Temp");  // Old
 
 
-            Employee emp = new PermanentEmployee(123, "Jack");  // New
-            Employee emp2 = new TemporaryEmployee(123, "Jonas");  // New
+    //        Employee emp = new PermanentEmployee(123, "Jack");  // New
+    //        Employee emp2 = new TemporaryEmployee(123, "Jonas");  // New
 
-            Console.WriteLine(String.Format("Employee {0} , Bonus {1}",
-                emp.ToString(), emp.CalculateBonus(1000000).ToString()));
+    //        Console.WriteLine(String.Format("Employee {0} , Bonus {1}",
+    //            emp.ToString(), emp.CalculateBonus(1000000).ToString()));
 
-            Console.WriteLine(String.Format("Employee {0} , Bonus {1}",
-                emp2.ToString(), emp2.CalculateBonus(1000000).ToString()));
-        }
-    }
+    //        Console.WriteLine(String.Format("Employee {0} , Bonus {1}",
+    //            emp2.ToString(), emp2.CalculateBonus(1000000).ToString()));
+    //    }
+    //}
 }

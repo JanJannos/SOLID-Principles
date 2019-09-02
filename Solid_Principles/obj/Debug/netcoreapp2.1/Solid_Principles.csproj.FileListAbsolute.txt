@@ -3,9 +3,9 @@ C:\Users\X220\source\repos\Solid_Principles\Solid_Principles\bin\Debug\netcoreap
 C:\Users\X220\source\repos\Solid_Principles\Solid_Principles\bin\Debug\netcoreapp2.1\Solid_Principles.runtimeconfig.dev.json
 C:\Users\X220\source\repos\Solid_Principles\Solid_Principles\bin\Debug\netcoreapp2.1\Solid_Principles.dll
 C:\Users\X220\source\repos\Solid_Principles\Solid_Principles\bin\Debug\netcoreapp2.1\Solid_Principles.pdb
-C:\Users\X220\source\repos\Solid_Principles\Solid_Principles\obj\Debug\netcoreapp2.1\Solid_Principles.csprojAssemblyReference.cache
 C:\Users\X220\source\repos\Solid_Principles\Solid_Principles\obj\Debug\netcoreapp2.1\Solid_Principles.csproj.CoreCompileInputs.cache
 C:\Users\X220\source\repos\Solid_Principles\Solid_Principles\obj\Debug\netcoreapp2.1\Solid_Principles.AssemblyInfoInputs.cache
 C:\Users\X220\source\repos\Solid_Principles\Solid_Principles\obj\Debug\netcoreapp2.1\Solid_Principles.AssemblyInfo.cs
 C:\Users\X220\source\repos\Solid_Principles\Solid_Principles\obj\Debug\netcoreapp2.1\Solid_Principles.dll
 C:\Users\X220\source\repos\Solid_Principles\Solid_Principles\obj\Debug\netcoreapp2.1\Solid_Principles.pdb
+C:\Users\X220\source\repos\Solid_Principles\Solid_Principles\obj\Debug\netcoreapp2.1\Solid_Principles.csprojAssemblyReference.cache

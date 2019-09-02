@@ -1,0 +1,10 @@
+C:\Users\X220\source\repos\Solid_Principles\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\X220\source\repos\Solid_Principles\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+C:\Users\X220\source\repos\Solid_Principles\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.AssemblyInfo.cs
+C:\Users\X220\source\repos\Solid_Principles\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.deps.json
+C:\Users\X220\source\repos\Solid_Principles\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.runtimeconfig.json
+C:\Users\X220\source\repos\Solid_Principles\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.runtimeconfig.dev.json
+C:\Users\X220\source\repos\Solid_Principles\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.dll
+C:\Users\X220\source\repos\Solid_Principles\InterfaceSegregationPrinciple\bin\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.pdb
+C:\Users\X220\source\repos\Solid_Principles\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.dll
+C:\Users\X220\source\repos\Solid_Principles\InterfaceSegregationPrinciple\obj\Debug\netcoreapp2.1\InterfaceSegregationPrinciple.pdb
